@@ -1,5 +1,5 @@
 The Redz mod ui by *Sea | Minh Hub* 
--Ex code in file Ex.lua-
+Ex code in file Ex.lua
 
 ***Load ui*** : 
 ```
